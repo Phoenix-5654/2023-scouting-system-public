@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "757139146846",
+    "project_id": "scoutingtest-bf950",
+    "storage_bucket": "scoutingtest-bf950.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757139146846:android:4c8648c460bfa91ba50ccf",
+        "android_client_info": {
+          "package_name": "com.example.scouting_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757139146846-5oa6lbpq6tu08u7eac82r472msuampg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLUrRG131aFWFWVQhKNjmYpTsnUW6uOTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757139146846-5oa6lbpq6tu08u7eac82r472msuampg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
