@@ -2,8 +2,6 @@
 
 <h1 style="text-align: center;">Scouting System 2023</h1>
 
-<h2 style="text-align: center;">――――――――――――――――――――――――――――――――――――――――――――――――</h2>
-
 ## Data gathering system, for the 2023 FRC season. Includes a Flutter App with Firebase integration, and a Google Sheets backend.
 
 This project is a data gathering system for the 2023 FRC season. In the repository you will find a Flutter App, connected to Firebase, and the Google Sheets file, downloaded as a .XLSX file.
