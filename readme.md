@@ -1,4 +1,8 @@
-# Scouting System 2023
+<span style="display:block;text-align:center">![Alt text](/readme/logo.png?raw=true "Alliance Compare")</span>
+
+<h1 style="text-align: center;">Scouting System 2023</h1>
+
+<h2 style="text-align: center;">――――――――――――――――――――――――――――――――――――――――――――――――</h2>
 
 ## Data gathering system, for the 2023 FRC season. Includes a Flutter App with Firebase integration, and a Google Sheets backend.
 
